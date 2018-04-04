@@ -1,0 +1,8 @@
+{
+   "name": "francohora/sample-library",
+   "autoload": {
+       "psr-0": {
+    
+       }
+   }
+}
